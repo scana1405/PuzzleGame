@@ -14,7 +14,7 @@ The game consists of 24 puzzle pieces and an empty space. Players can move the p
 
 ## Screenshots
 
-*(Add screenshots here once the application is running and you can capture images)*
+
 
 ## Getting Started
 
